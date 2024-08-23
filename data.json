@@ -622,5 +622,9 @@
   "2939": {
     "img_url": "https://imgs.xkcd.com/comics/complexity_analysis.png",
     "alt_text": "PERPETUALLY OPTIMISTIC CASE: Early in the execution, our research group makes a breakthrough on proving P=NP."
+  },
+  "2975": {
+    "img_url": "https://imgs.xkcd.com/comics/classical_periodic_table.png",
+    "alt_text": "Personally I think mercury is more of a 'wet earth' hybrid element."
   }
 }
